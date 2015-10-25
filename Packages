@@ -1,15 +1,5 @@
-Package: com.creativitykills.darkbbm
-Name: Dark Mode for BBM (BETA)
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: Dark mode for BBM
-Maintainer: Neo Ighodaro <neo@creativitykills.co>
-Author: Neo Ighodaro <neo@creativitykills.co>
-Section: Tweaks
-Version: 0.0.1
-Installed-Size: 104
-MD5sum: 6806330b2dba036f0941b07dbb76e7f6
-Size: 7120
-Filename: debs/darkbbm.deb
+MD5sum: 
+Size: 
+Filename: debs/*.deb
 
 
