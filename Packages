@@ -1,5 +1,15 @@
-MD5sum: 
-Size: 
-Filename: debs/*.deb
+Package: com.tapsharp.darkbbm
+Name: Dark Mode for BBM (BETA)
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Dark mode for BBM
+Maintainer: TapSharp <yo@tapsharp.com>
+Author: TapSharp <yo@tapsharp.com>
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 104
+MD5sum: 4d004241f1d0ee35bb577400104d6be2
+Size: 7114
+Filename: debs/darkbbm.deb
 
 
