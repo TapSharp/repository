@@ -1,0 +1,24 @@
+Package: com.ck.bbmplus
+Name: BBMPLUS
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: BBM on steroids. This tweak adds certain functions to BBM that's impossible with the stock app.
+  The tweak adds features that are previously impossible for the stock BBM app to accomplish. Its simple, just install, and go to the preferences panel and disable / enable the parts of the tweak you want enabled.
+  Tweak Features
+  - Temporarily stop sender from retracting message (valid till you restart the app)
+  - Disable showing message as read (until you reply the message)
+  - Hide "is writing a message..." notification.
+  - Disable Ads on from displaying on BBM
+  - Send unlimited PING!!!
+  - Disable Screenshot Notification on timed messages / photos.
+  - Unlimited timer on timed messages / photos.
+Maintainer: Neo Ighodaro <lehoodwink@gmail.com>
+Author: Neo Ighodaro <lehoodwink@gmail.com>
+Section: Tweaks
+Version: 1.2.0-1
+Installed-Size: 220
+MD5sum: 0bc259bc7a5bf188f781b1fe47f1fab0
+Size: 41518
+Filename: debs/bbmplus.deb
+
+
