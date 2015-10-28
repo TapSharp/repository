@@ -1,3 +1,17 @@
+Package: com.tapsharp.bluetoothrenamer
+Name: BluetoothRenamer
+Depends: firmware(>= 9.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Rename your Bluetooth Devices.
+Maintainer: TapSharp <tweaks@tapsharp.com>
+Author: TapSharp <tweaks@tapsharp.com>
+Section: Tweaks
+Version: 1.0.0
+Installed-Size: 312
+MD5sum: 4965c7e41427a69e6138773208f884bc
+Size: 44154
+Filename: debs/bluetoothrenamer.deb
+
 Package: com.tapsharp.darkbbm
 Name: Dark Mode for BBM (BETA)
 Depends: mobilesubstrate
