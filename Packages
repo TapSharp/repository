@@ -40,8 +40,8 @@ Section: Tweaks
 Conflicts: com.evilgoldfish.livephotosenabler
 Version: 1.2.6
 Installed-Size: 104
-MD5sum: 8694d35e285f8692d6aace6cc6e22e14
-Size: 5154
+MD5sum: 43f35fd3ef16f69e33079baf96601f19
+Size: 7998
 Filename: debs/livephotosenabler.deb
 
 Package: com.tapsharp.unicodefaces
