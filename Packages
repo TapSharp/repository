@@ -38,10 +38,10 @@ Maintainer: TapSharp <tweaks@tapsharp.com>
 Author: TapSharp <tweaks@tapsharp.com>
 Section: Tweaks
 Conflicts: com.evilgoldfish.livephotosenabler
-Version: 1.2.6
-Installed-Size: 104
-MD5sum: 43f35fd3ef16f69e33079baf96601f19
-Size: 7998
+Version: 1.2.7-1+debug
+Installed-Size: 112
+MD5sum: f048ffeaf96226581680ba1c8e0804e0
+Size: 11610
 Filename: debs/livephotosenabler.deb
 
 Package: com.tapsharp.unicodefaces
