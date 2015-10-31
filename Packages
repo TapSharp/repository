@@ -60,20 +60,4 @@ MD5sum: 249f01447071075c8f3b6ed98839b17e
 Size: 35532
 Filename: debs/unicodefaces.deb
 
-Package: com.tapsharp.unicodefaces
-Name: Unicode Faces
-Depends: firmware(>=8.0), mobilesubstrate
-Conflicts:org.seatanners.unifaces
-Architecture: iphoneos-arm
-Description: Add Unicode faces to your Keyboard. Based loosely on @seatanners UniFaces.
-Maintainer: TapSharp <tweaks@tapsharp.com>
-Author: TapSharp <tweaks@tapsharp.com>
-Section: Tweaks
-Tags:unifaces,unicode,smileys
-Version: 1.0.0
-Installed-Size: 140
-MD5sum: adb9b6b3bc4eaba98c9c68bc37b989e9
-Size: 16216
-Filename: debs/unicodefaces.deb.deb
-
 
