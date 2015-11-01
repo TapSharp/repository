@@ -29,6 +29,22 @@ MD5sum: 4d004241f1d0ee35bb577400104d6be2
 Size: 7114
 Filename: debs/darkbbm.deb
 
+Package: com.tapsharp.enablelivephotosbeta
+Name: Enable Live Photos [BETA]
+Depends: firmware (>= 9.0), mobilesubstrate
+Architecture: iphoneos-arm
+Description: Enable Live Photos on most devices running iOS 9. No settings to configure. May not work (or may be unresponsive) on iPhones lower than 6. NOTE: This is a BETA version, it may not work. If anything doesn't work feel free to contact us on Twitter @TapSharp
+Maintainer: TapSharp <tweaks@tapsharp.com>
+Author: TapSharp <tweaks@tapsharp.com>
+Section: Tweaks
+Conflicts: com.evilgoldfish.livephotosenabler, com.creativitykills.enablelivephotos
+Tags:enablelivephotos,live photos,photos
+Version: 2.0.0b-1+debug
+Installed-Size: 144
+MD5sum: b7c186df942e37a878d0f1e3a7061645
+Size: 13286
+Filename: debs/enablelivephotos.deb
+
 Package: com.creativitykills.enablelivephotos
 Name: EnableLivePhotos
 Depends: firmware (>= 9.0), mobilesubstrate
