@@ -10,13 +10,13 @@ if [ $# -eq 0 ]; then
 fi
 
 if [ "$1" == "add" ]; then
-	if [ "$#" -ne 3 ]; then
+	if [ "$#" -ne 2 ]; then
 	  echo "Usage: $0 add <package> <deb file>" >&2
 	  exit 1
 	fi
 	echo "Adding new package...";
 
-	cp "$3" "$script_dir/debs/$2.deb"
+	cp "$2" "$script_dir/debs/$2"
 
 elif [ "$1" == "update" ]; then
 	echo "Updating packaging...";
