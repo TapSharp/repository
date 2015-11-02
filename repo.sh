@@ -16,7 +16,7 @@ if [ "$1" == "add" ]; then
 	fi
 	echo "Adding new package...";
 
-	cp "$2" "$script_dir/debs/$2"
+	cp "$2" "$script_dir/debs/"
 
 elif [ "$1" == "update" ]; then
 	echo "Updating packaging...";
