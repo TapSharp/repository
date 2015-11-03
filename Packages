@@ -92,8 +92,8 @@ Section: Tweaks
 Tags:unifaces,unicode,smileys
 Version: 1.2.2
 Installed-Size: 360
-MD5sum: 3f28d24f63d49d567694115d76d042bd
-Size: 45420
+MD5sum: 9d77f89448f0dc13a2cea50e371093e8
+Size: 45458
 Filename: debs/com.tapsharp.unicodefaces_1.2.2_iphoneos-arm.deb
 
 Package: com.tapsharp.darkbbm
