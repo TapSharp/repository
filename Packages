@@ -25,22 +25,6 @@ Author: TapSharp <tweaks@tapsharp.com>
 Section: Tweaks
 Conflicts: com.evilgoldfish.livephotosenabler, com.creativitykills.enablelivephotos
 Tags:enablelivephotos,live photos,photos,elp
-Version: 2.0.0beta-2-5+debug
-Installed-Size: 148
-MD5sum: 1e119c2edc38e3f45ddc9034f82cd1dc
-Size: 16302
-Filename: debs/com.tapsharp.enablelivephotosbeta_2.0.0beta-2-5+debug_iphoneos-arm.deb
-
-Package: com.tapsharp.enablelivephotosbeta
-Name: Enable Live Photos [BETA]
-Depends: firmware (>= 9.0), mobilesubstrate, ws.hbang.common (>= 1.3)
-Architecture: iphoneos-arm
-Description: Enable Live Photos on most devices running iOS 9. No settings to configure. May not work (or may be unresponsive) on iPhones lower than 6. NOTE: This is a BETA version, it may not work. If anything doesn't work feel free to contact us on Twitter @TapSharp
-Maintainer: TapSharp <tweaks@tapsharp.com>
-Author: TapSharp <tweaks@tapsharp.com>
-Section: Tweaks
-Conflicts: com.evilgoldfish.livephotosenabler, com.creativitykills.enablelivephotos
-Tags:enablelivephotos,live photos,photos,elp
 Version: 2.0.0beta-3
 Installed-Size: 168
 MD5sum: 822eb45a8cebedcf09d9f88a2cdf8513
