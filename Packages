@@ -128,6 +128,23 @@ MD5sum: d8f4c511a541bbd491e0722d9361fbec
 Size: 46902
 Filename: debs/com.tapsharp.unicodefaces_1.2.3_iphoneos-arm.deb
 
+Package: com.tapsharp.unicodefaces
+Name: Unicode Faces
+Depends: firmware(>=8.0), mobilesubstrate, ws.hbang.common (>= 1.3)
+Conflicts:org.seatanners.unifaces
+Architecture: iphoneos-arm
+Description: Add Unicode faces to your Keyboard. Based loosely on @seatanners UniFaces. Hold on the spacebar key to activate.
+Maintainer: TapSharp <tweaks@tapsharp.com>
+Author: TapSharp <tweaks@tapsharp.com>
+Icon: file:///Library/PreferenceBundles/Unifaces.bundle/icon.png
+Section: Tweaks
+Tags:unifaces,unicode,smileys
+Version: 1.2.4
+Installed-Size: 364
+MD5sum: 26e552f7c46b09a53dc4a480c99e2048
+Size: 46920
+Filename: debs/com.tapsharp.unicodefaces_1.2.4_iphoneos-arm.deb
+
 Package: com.tapsharp.darkbbm
 Name: Dark Mode for BBM (BETA)
 Depends: mobilesubstrate
