@@ -31,6 +31,21 @@ MD5sum: 822eb45a8cebedcf09d9f88a2cdf8513
 Size: 15402
 Filename: debs/com.tapsharp.enablelivephotosbeta_2.0.0beta-3_iphoneos-arm.deb
 
+Package: com.tapsharp.quicklymarkread
+Name: Quickly Mark Read
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Tap and hold to quickly mark stuff as read without opening. Supports: Messages app.
+Maintainer: TapSharp <tweaks@tapsharp.com>
+Author: TapSharp <tweaks@tapsharp.com>
+Section: Tweaks
+Tags: mark read,messages,tapsharp
+Version: 0.0.1
+Installed-Size: 104
+MD5sum: 0999124f842689ae333567fcf04bb957
+Size: 4076
+Filename: debs/com.tapsharp.quicklymarkread_0.0.1_iphoneos-arm.deb
+
 Package: com.tapsharp.unicodefaces
 Name: Unicode Faces
 Depends: firmware(>=8.0), mobilesubstrate, ws.hbang.common (>= 1.3)
