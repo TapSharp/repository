@@ -96,6 +96,21 @@ MD5sum: 0999124f842689ae333567fcf04bb957
 Size: 4076
 Filename: debs/com.tapsharp.quicklymarkread_0.0.1_iphoneos-arm.deb
 
+Package: com.tapsharp.safariclosealltabs
+Name: Safari Close All Tabs
+Depends: mobilesubstrate, firmware(>=8.0)
+Architecture: iphoneos-arm
+Description: Adds a button to close all Safari tabs in one swoop!
+Maintainer: TapSharp <tweaks@tapsharp.com>
+Author: TapSharp <tweaks@tapsharp.com>
+Section: Tweaks
+Tags:safari,tabs,close tabs,browser
+Version: 1.0.0
+Installed-Size: 124
+MD5sum: bc887a2742985842c9c0f2f6da735cdb
+Size: 12410
+Filename: debs/com.tapsharp.safariclosealltabs_1.0.0_iphoneos-arm.deb
+
 Package: com.tapsharp.unicodefaces
 Name: Unicode Faces
 Depends: firmware(>=8.0), mobilesubstrate, ws.hbang.common (>= 1.3)
