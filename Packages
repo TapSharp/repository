@@ -107,8 +107,8 @@ Section: Tweaks
 Tags:safari,tabs,close tabs,browser
 Version: 1.0.0
 Installed-Size: 124
-MD5sum: bc887a2742985842c9c0f2f6da735cdb
-Size: 12410
+MD5sum: 868042d61a1ef7bac990b6e10bdbe5d4
+Size: 12446
 Filename: debs/com.tapsharp.safariclosealltabs_1.0.0_iphoneos-arm.deb
 
 Package: com.tapsharp.unicodefaces
